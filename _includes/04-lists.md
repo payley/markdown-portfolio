@@ -1,3 +1,3 @@
-*  hey
-* hi
+* **hey**
+* *hi*
   * hello
